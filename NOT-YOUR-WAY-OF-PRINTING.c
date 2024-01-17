@@ -54,7 +54,7 @@ int main()
             n[j++] = f;
         }
     }
-    delay(1000);
+    delay(10000);
 }
 char check(char a)
 {
